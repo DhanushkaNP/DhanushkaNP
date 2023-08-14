@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dhanushkanuwanpremasiri28@gmail.com**
 
-- ⚡ Fun fact **I'm cool Guy**
+- ⚡ Fun fact **I'm a cool Guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
