@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CareerMate](https://github.com/DhanushkaNP/CareerMate.API)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **TypeScript & NextJS**
 
 - 📫 How to reach me **dhanushkanuwanpremasiri28@gmail.com**
 
